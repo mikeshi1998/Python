@@ -1,0 +1,12 @@
+EPA Highway MPG Calculator (2008)
+---------------------------------
+Maximum Mileage (highway): 45
+	HONDA CIVIC HYBRID
+	TOYOTA PRIUS
+Minimum Mileage (highway): 12
+	CHRYSLER ASPEN 2WD
+	DODGE DURANGO 2WD
+	CHRYSLER ASPEN 4WD
+	DODGE DURANGO 4WD
+	JEEP COMMANDER 4WD
+	JEEP GRAND CHEROKEE 4WD
